@@ -1,0 +1,84 @@
+#wrap{
+  width:1024px;
+  margin:10px auto;
+  background-color:#DDE5F8；
+}
+
+.introductionss{
+	width:100px;
+	height:600px;
+	float:left;
+	margin:33px}
+.introduction{
+	width:350px;
+	height:600px;
+	float:left;
+	margin:33px}
+.p     {
+	font-size:80px;
+	font-family:Microsoft Yahei}
+.mobile{
+	width:200px;
+	height:200px;
+	float:left;
+	margin:30px;
+	position:relative; 
+	top:0; 
+    left:0;
+	transition:all 1s}
+.mobile_qrcode{
+	width:200px;
+	height:200px;
+	float:right;
+	margin-top: 100px;
+    margin-right: 35px;
+	position:fixed; 
+	top:20px; 
+    right:20px;
+	transition:all 1s}
+.mobile_logo{
+	width:800px;
+	height:675px;
+	clear:left;
+	position:relative;
+	top:0;
+	left:0;
+	transition:all 1s}
+.qsc_logo{
+    width:1024px;
+	height:60px;
+	background-color:6687D4;
+	padding:10px;
+	margin:10px;
+	position:fixed}
+	
+	
+/**h3:hover{letter-spacing:3px}
+	}	
+transition: all 0.5s;}**/
+
+.p:hover{
+	letter-spacing:6px
+}
+/**.mobile:hover{
+	background-color:#33FCAF;
+    margin:20px;
+	position:relative; 
+	top:6px; 
+    left:6px}**/
+.mobile_qrcode:hover{
+    background-color:#33FCAF;
+    position:fixed; 
+	margin-top:150px;
+    margin-right: 66px;}
+	
+.mobile:hover{
+	background-color:#33FCAF;
+    margin:45px;
+	position:relative;  
+    top: 6px;
+	left:6px;}
+.mobile_logo:hover{
+	position:relative;
+	left:100px auto
+}
